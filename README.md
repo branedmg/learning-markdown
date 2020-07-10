@@ -1,4 +1,4 @@
-# learning-markdown
+# markdown
 a repo to experiment with github flavored markdown
 
 # escaping metacharacters
