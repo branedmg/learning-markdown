@@ -9,6 +9,6 @@ characer
 unordered list items. use a backslash in front them to have them print
 as the negative and positive characters
 
-# a list of links
+# list of links
 - https://www.google.ca
 - https://www.wired.com
