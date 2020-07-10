@@ -1,14 +1,14 @@
 # learning-markdown
-A repo to experiment with GitHub Flavoured Markdown
+a repo to experiment with github flavored markdown
 
-# Escaping metacharacters
-- The hash (\#) character is used to identify sections. Use a
+# escaping metacharacters
+- the hash (\#) character is used to identify sections. use a
 backslash (\\) in front of it in order to have it print as a hash
-characer.
-- The negative (\-) and positive (\+) characters are used to identify
-unordered list items. Use a backslash in front them to have them print
-as the negative and positive characters.
+characer
+- the negative (\-) and positive (\+) characters are used to identify
+unordered list items. use a backslash in front them to have them print
+as the negative and positive characters
 
-# A list of links
+# a list of links
 - https://www.google.ca
 - https://www.wired.com
