@@ -19,5 +19,4 @@ a link whose text between the square brackets (i.e. \[ and \]) and URL is betwee
   - sublist item
 
 # list of links
-- https://www.google.ca
-- https://www.wired.com
+- https://daringfireball.net/projects/markdown/
