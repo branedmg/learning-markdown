@@ -1,5 +1,5 @@
-# markdown
-a repo to experiment with github flavored markdown
+# Markdown
+a repo to experiment with GitHub flavored Markdown
 
 # escaping metacharacters
 - the hash (\#) character is used to identify sections. use a
