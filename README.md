@@ -9,6 +9,11 @@ characer
 unordered list items. use a backslash in front them to have them print
 as the negative and positive characters
 
+# links
+\[Kurzgesagt YouTube channel. it contains science popularization videos\]\(https://www.youtube.com/user/Kurzgesagt\) produces
+a link whose text between the square brackets (i.e. \[ and \]) and URL is between the round brackets (i.e. \( and \)).
+[Kurzgesagt YouTube channel. it contains science popularization videos](https://www.youtube.com/user/Kurzgesagt)
+
 # list of links
 - https://www.google.ca
 - https://www.wired.com
