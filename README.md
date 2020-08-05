@@ -14,6 +14,10 @@ as the negative and positive characters
 a link whose text between the square brackets (i.e. \[ and \]) and URL is between the round brackets (i.e. \( and \)).
 [Kurzgesagt YouTube channel. it contains science popularization videos](https://www.youtube.com/user/Kurzgesagt)
 
+# sublists
+- list item
+  - sublist item
+
 # list of links
 - https://www.google.ca
 - https://www.wired.com
