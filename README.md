@@ -2,11 +2,11 @@
 A repository to experiment with GitHub flavored Markdown.
 
 # Escaping metacharacters
-- The hash (\#) character is used to identify sections. use a
+- The hash (\#) character is used to identify sections. Use a
 backslash (\\) in front of it in order to have it print as a hash
 characer.
 - The negative (\-) and positive (\+) characters are used to identify
-unordered list items. use a backslash in front them to have them print
+unordered list items. Use a backslash in front them to have them print
 as the negative and positive characters.
 
 # Links
