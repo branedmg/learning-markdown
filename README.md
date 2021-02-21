@@ -19,5 +19,10 @@ a link whose text is between the square brackets (i.e. \[ and \]) and URL is bet
   - sublist item
     - subsublist item
 
+# Images
+![Rick Sanchez](images/Rick Sanchez.png)
+
+By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=54557086
+
 # List of links
 - https://daringfireball.net/projects/markdown/
